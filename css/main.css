@@ -88,13 +88,13 @@ header .search .btn-search:hover {
 }
 
 /* section-title */
-h2.section-title {
+.section-title {
     margin: 100px auto 44px;
     text-align: center;
     font-size: 1.6rem;
     font-weight: 300;
 }
-h2.section-title img {
+.section-title img {
     margin-bottom: 24px;
 }
 
